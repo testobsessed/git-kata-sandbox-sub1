@@ -1,3 +1,4 @@
-script: "./run_all_the_tests.sh"
+language: ruby
+script: ./run_all_the_tests.sh
 rvm:
   - 1.8.7
